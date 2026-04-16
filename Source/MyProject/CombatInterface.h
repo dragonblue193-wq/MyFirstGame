@@ -12,7 +12,7 @@ class UCombatInterface : public UInterface
 {
 	GENERATED_BODY()
 };
-
+//テスト
 /**
  * 
  */
